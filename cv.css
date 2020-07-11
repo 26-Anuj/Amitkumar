@@ -1059,11 +1059,6 @@ ul.port-nav-list li a.active {
 /*------- testimonial area ends --------*/
 
 /*-------------13. Contact area starts -------------*/
-
-#iframe{
-    border: 0;
-    background-color: transparent;
-}
 .contact-form input, 
 .contact-form textarea {
   width: 100%;
